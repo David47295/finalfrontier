@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Omit extra Blender files
 Blender/*/*.blend1
+
+#Omit FBX files
+*.fbx
